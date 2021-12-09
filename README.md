@@ -1,2 +1,0 @@
-# iSEM
-Accounting Project
